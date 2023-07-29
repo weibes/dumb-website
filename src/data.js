@@ -1,36 +1,28 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Chess AI",
+    subtitle: "TensorFlow, Flask, Python, Reinforcement Learning",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "I'm currently working on developing a simple chess ML bot that plays as actual players do at different elo ranks.",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "No_More_League",
+    subtitle: "Python, C++, Desktop applications.",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+      "A piece of persistent software (or malware) that disallows League of Legends to run on your computer unless you meet certain parameters.",
+    image: "./no_more_league.png",
     link: "https://reedbarger.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "LED-ART",
+    subtitle: "Embedded Systems, hardware, C",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Fun art project involving creating a custom embedded device.",
     image: "./project-3.gif",
     link: "https://jsbootcamp.com",
-  },
-  {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://pythonbootcamp.com",
-  },
+  }
 ];
 
 export const skills = ['python', 'tensorflow', 'flask', 'pytorch', 'ONNX', 'JavaScript', 'React', 'Node.JS', 'SQL'];

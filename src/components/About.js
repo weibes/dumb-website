@@ -10,7 +10,7 @@ export default function About() {
               <br className="hidden lg:inline-block" />I'm a dev who likes to make things work.
             </h1>
             <p className="mb-8 leading-relaxed">
-              I work in the world of ML Ops, where I build datasets, train ML models, and deploy them for the world to see.
+              I'm a software engineer, focused on making cool stuff, from deploying ML models, to creating interesting web applications.
             </p>
             <div className="flex justify-center">
               <a
